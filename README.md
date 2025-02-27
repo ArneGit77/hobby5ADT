@@ -13,6 +13,7 @@ Waterpolo is een snelle teamsport in het water, waarbij twee teams proberen te s
 2. leren passen
 3. leren verdedigen
 4. leren scoren
+5. strategie leren
 
 [waterpolo](https://nl.wikipedia.org/wiki/Waterpolo)
 
