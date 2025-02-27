@@ -17,3 +17,8 @@ Waterpolo is een snelle teamsport in het water, waarbij twee teams proberen te s
 [waterpolo](https://nl.wikipedia.org/wiki/Waterpolo)
 
 ![waterpolofoto](istockphoto-151645252-612x612.jpg)
+
+if goal==OPEN:
+    shootball=yes
+else:
+    shootball=no
